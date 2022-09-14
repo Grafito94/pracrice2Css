@@ -1,0 +1,43 @@
+
+
+
+.abutton{
+
+
+    background-color: white;
+    border-color: #1bd9bd;
+    padding: 2px 100px;
+    border-radius: 20px;
+    color: #1bd9bd;
+    margin: 20px;
+    font-size: larger;
+    
+}
+
+.bbutton{
+
+    background-color: #1bd9bd;
+    border-color: #1bd9bd;
+    color: white;
+    margin: 20px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: xx-large;
+    
+}
+
+
+.cbutton{
+
+    background-color: #1673b7;
+    border-color: #0b30b7;
+    color: white;
+    margin: 20px;
+    font-size: larger;
+    font-weight:normal;
+    padding:7px 30px ;
+    box-shadow:  5px 5px 15px 5px #000000;
+    
+}
+
